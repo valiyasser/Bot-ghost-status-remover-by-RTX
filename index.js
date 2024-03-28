@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to SFRP","Watching SFRP"];
+const statusMessages = ["Watching SFRP"];
 
 
 let currentIndex = 0;
