@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["MODERATING (GU) GRINDERS UNITED!"];
+const statusMessages = ["MODERATING **GRINDERS UNITED**!"];
 
 
 let currentIndex = 0;
