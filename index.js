@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["MODERATING","**(GU) Grinders United!**"];
 
 
 let currentIndex = 0;
