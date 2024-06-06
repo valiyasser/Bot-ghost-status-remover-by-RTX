@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WATCHING VILYMX ITEMS"];
+const statusMessages = ["WATCHING TTD Grinders!"];
 
 
 let currentIndex = 0;
