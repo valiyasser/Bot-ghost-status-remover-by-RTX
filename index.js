@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WATCHING TTD Grinders!"];
+const statusMessages = ["Watching TTD Grinders And Carry And Partners"];
 
 
 let currentIndex = 0;
